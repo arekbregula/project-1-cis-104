@@ -1,0 +1,13 @@
+{
+  "name": "project-1-cis-104",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "author": "Arkadiusz Bregula"
+}
